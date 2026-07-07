@@ -1,1 +1,6 @@
-
+name = "Archive of Our Own"
+description = "The Archive of Our Own (AO3) is a noncommercial and nonprofit central hosting site for transformative fanworks such as fanfiction and, in the future, other transformative works such as fanart, fan videos, and podfic."
+slug = "archiveofourown"
+hostnames = [ "archiveofourown.org", "archiveofourown.gay", "ao3.gay" ]
+sources = ["https://archiveofourown.org/privacy" ]
+contributors = [ "Shinigami-alt" ]
