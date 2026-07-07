@@ -12,7 +12,7 @@ citations = [
 ]
 
 [rubric.data-breaches]
-value "eventually"
+value = "eventually"
 citations = [
   "If we learn of a breach which compromises the security or confidentiality of the Personal Information of AO3 users, we will notify affected users and relevant supervisory authorities as required by law as soon as practicable."
 ]
